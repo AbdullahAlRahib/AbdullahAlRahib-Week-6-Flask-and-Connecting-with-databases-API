@@ -1,0 +1,17 @@
+Clone github 0r download file:
+git clone <link>
+
+Github push:
+git init #initialization
+
+
+
+
+
+
+if get git origin Error:
+git remote remove origin   
+
+
+
+

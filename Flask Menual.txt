@@ -1,0 +1,8 @@
+Create Virtual Enviroment:
+python -m venv env
+
+Activate Virtual Enviroment in powersell:
+.\env\Scripts\activate.ps1
+
+Flask install: 
+pip install flask
